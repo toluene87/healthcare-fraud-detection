@@ -55,12 +55,23 @@ Claim amounts ranged from **$60.21 to $6,590.70**, with a median of **$461.23**,
 ## 📊 Dashboard Highlights
 
 The Excel dashboard includes:
-- Fraud vs. Legitimate claim distribution (donut chart)
-- Average claim amount by fraud status (bar chart)
-- Fraud rate by Provider Specialty (bar chart)
-- Fraud rate by Insurance Type (column chart)
-- Fraud rate by Visit Type
-- Slicers for dynamic filtering by Insurance Type and Visit Type
+
+**Charts:**
+- **Fraud Distribution Overview** — breakdown of fraudulent vs legitimate claims across the dataset
+- **Fraud Proportion by Insurance Type** — comparing fraud rates across Medicare, Medicaid, Private, and Self-Pay
+- **Top 10 Providers by Fraud Cases** — identifying the highest risk providers in the dataset
+- **Fraud Trend Over Time** — tracking how fraud patterns shifted across the claim submission period
+
+**KPI Cards (6):**
+- Total Claims
+- Fraud Cases
+- Fraud Rate %
+- Avg. Claim Amount (Fraud)
+- Avg. Claim Amount (Non-Fraud)
+- Fraud vs Non-Fraud ratio
+
+**Slicers (4):**
+- Dynamic filtering for interactive exploration of the dashboard
 
 ---
 
@@ -87,6 +98,6 @@ healthcare-fraud-detection/
 
 ## 👤 Author
 
-**Toluwanimi Awofisayo**
-Mathematics Graduate | Data Analyst
-📧 irewamiriawofisayo@gmail.com
+**Toluwanimi Awofisayo**  
+Mathematics Graduate | Data Analyst  
+📧 irewamiriawofisayo@gmail.com  
