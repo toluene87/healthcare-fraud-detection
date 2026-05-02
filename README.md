@@ -84,3 +84,9 @@ healthcare-fraud-detection/
 ```
 
 ---
+
+## 👤 Author
+
+**Toluwanimi Awofisayo**
+Mathematics Graduate | Data Analyst
+📧 irewamiriawofisayo@gmail.com
