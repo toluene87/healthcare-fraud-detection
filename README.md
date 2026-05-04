@@ -100,4 +100,4 @@ healthcare-fraud-detection/
 
 **Toluwanimi Awofisayo**  
 Mathematics Graduate | Data Analyst  
-📧 irewamiriawofisayo@gmail.com  
+📧 temijasopelincoln@gmail.com  
